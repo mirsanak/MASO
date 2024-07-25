@@ -87,7 +87,7 @@ def add_user(username, password):
 def app():
     st.title("MASO - The Food & Waste Management System")
 
-    st.image("image_files/DT_G62_Food-drink-Animated-GIF-Icon-Pack.webp", caption="Welcome to the App!")
+    st.image("DT_G62_Food-drink-Animated-GIF-Icon-Pack.webp", caption="Welcome to the App!")
 
 
 
