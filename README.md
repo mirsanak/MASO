@@ -1,5 +1,7 @@
 # MASO - The Food & Waste Management System
 
+## Deployed link - https://maso-b289.onrender.com , it may take up to 1 minute to load intially as it's deployed on a free service.
+
 ## Overview
 
 MASO is a comprehensive system designed for managing excess food, food waste, donation requests, and donation orders. It provides a user-friendly interface through Streamlit for web-based interactions and a command-line interface (CLI) for terminal-based interactions.
